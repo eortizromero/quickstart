@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "es-mx"
+title = "My new blog"
+
+theme = "hugo-theme-chunky-poster"
+publishDir = "docs"
