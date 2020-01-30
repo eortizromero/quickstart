@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eortizromero.github.io/quickstart/categories/</loc>
+    <loc>https://eortizromero.github.io/quickstart/</loc>
+    <lastmod>2020-01-30T13:26:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eortizromero.github.io/quickstart/</loc>
+    <loc>https://eortizromero.github.io/quickstart/posts/mi-primer-post/</loc>
+    <lastmod>2020-01-30T13:26:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eortizromero.github.io/quickstart/posts/</loc>
+    <lastmod>2020-01-30T13:26:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eortizromero.github.io/quickstart/categories/</loc>
   </url>
   
   <url>

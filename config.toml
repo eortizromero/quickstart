@@ -1,6 +1,10 @@
 baseURL = "https://eortizromero.github.io/quickstart"
 languageCode = "es-mx"
-title = "My new blog"
+title = "Desarrollador Python Blog"
 
 theme = "hugo-theme-chunky-poster"
 publishDir = "docs"
+
+[params]
+    author = "Edgardo Ortiz"
+    description = "Blog para desarrolladores Python"
